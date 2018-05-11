@@ -10,6 +10,7 @@ import UIKit
 import Alamofire
 
 class ProvinceViewController: UIViewController {
+    
     @IBOutlet weak var tableView: UITableView!
     
     let cellReuseIdentifier = "cell"

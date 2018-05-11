@@ -28,7 +28,6 @@ class OrderListViewController: UIViewController {
         tableView.delegate = self
         tableView.dataSource = self
     }
-
 }
 
 extension OrderListViewController: UITableViewDelegate, UITableViewDataSource {
@@ -46,5 +45,4 @@ extension OrderListViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         self.tableView.deselectRow(at: indexPath, animated: true)
     }
-    
 }

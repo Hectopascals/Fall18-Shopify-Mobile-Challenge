@@ -10,6 +10,7 @@ import UIKit
 import Alamofire
 
 class YearViewController: UIViewController {
+    
     @IBOutlet weak var tableView: UITableView!
     
     let cellReuseIdentifier = BasicMetadataTableViewCell.className
