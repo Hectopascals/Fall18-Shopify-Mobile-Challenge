@@ -8,9 +8,11 @@ Link to video of the extra challenges can be found [here](https://drive.google.c
 
 ### Orders By Province Screenshot
 <img src="Orders_By_Province_Screenshot.png" width="300">
-We can tap on the cells (i.e. "3 orders from Arizona") to open a new screen showing the full list of orders belonging to that province.
+* We can tap on the cells (i.e. "*3 orders from Arizona*") to open a new screen showing the full list of orders belonging to that province.
 
 ---
 
 ### Orders By Year Screenshot
 <img src="Orders_By_Year_Screenshot.png" width="300">
+* The first 10 orders are displayed for each year
+* Also dynamically shows number of orders created in years other than 2017
